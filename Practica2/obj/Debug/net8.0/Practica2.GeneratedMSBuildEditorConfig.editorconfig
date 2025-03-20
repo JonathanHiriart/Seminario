@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Practica2
-build_property.ProjectDir = C:\Users\Yoni\WorkSpace\Seminario\Practica2\
+build_property.ProjectDir = c:\Users\Yoni\WorkSpace\Seminario\Practica2\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
