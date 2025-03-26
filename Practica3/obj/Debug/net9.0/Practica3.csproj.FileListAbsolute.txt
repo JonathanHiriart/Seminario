@@ -1,0 +1,15 @@
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\Practica3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\Practica3.AssemblyInfoInputs.cache
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\Practica3.AssemblyInfo.cs
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\Practica3.csproj.CoreCompileInputs.cache
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\Practica3.sourcelink.json
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\bin\Debug\net9.0\Practica3.exe
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\bin\Debug\net9.0\Practica3.deps.json
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\bin\Debug\net9.0\Practica3.runtimeconfig.json
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\bin\Debug\net9.0\Practica3.dll
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\bin\Debug\net9.0\Practica3.pdb
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\Practica3.dll
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\refint\Practica3.dll
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\Practica3.pdb
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\Practica3.genruntimeconfig.cache
+C:\Users\Yoni\WorkSpace\Seminario\Practica3\obj\Debug\net9.0\ref\Practica3.dll
