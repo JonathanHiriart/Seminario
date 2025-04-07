@@ -1,8 +1,22 @@
 ﻿// inicio de clase 3 
 // los var son de tipo anonimo es decir que no tienen tipos 
-var x = new {nombre= "juan", edad = 20};
-Console.WriteLine(x.GetType());
-dynamic d = "hola";
-Console.WriteLine(d.GetType());
-d = 12;
-Console.WriteLine(d.GetType());
+/*
+string marca = "Ford";
+int modelo = 2000;
+string st = string.Format("Es un {0} año {1}", marca, modelo);
+Console.WriteLine(st);
+*/
+// string de formata compuesto 
+/*
+string marca = "Ford";
+int modelo = 2000;
+string st = $"Es un {marca} año {modelo}";
+Console.WriteLine(st);
+*/
+// string en cadena interpolada 
+
+
+/*
+double r = 2.417;
+Console.WriteLine($"valor = {r:0.000} ");
+*/
