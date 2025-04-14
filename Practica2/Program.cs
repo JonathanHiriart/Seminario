@@ -76,12 +76,12 @@ apuntando a la misma dirección. ¿Cómo explica entonces que el resultado en la
 // expresados como una fecha y hora de un dia 
 // la precision es de hasta 100 nanosegundos 
 
-// int length = 1000;
-// DateTime inicio= DateTime.Now;
-// string palabra = "" ;
-// for (int i = 0; i < length; i++)
-// {
-//     palabra += i;
-// }
-// DateTime fin = DateTime.Now;
-// Console.WriteLine("tiempo de ejecucion es, " + (fin-inicio));
+ int length = 1000;
+ DateTime inicio= DateTime.Now;
+ string palabra = "" ;
+for (int i = 0; i < length; i++)
+{
+     palabra += i;
+}
+ DateTime fin = DateTime.Now;
+ Console.WriteLine("tiempo de ejecucion es, " + (fin-inicio));
